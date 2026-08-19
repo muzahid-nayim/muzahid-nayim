@@ -18,7 +18,7 @@
   <a href="https://mnhp.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:mnhp24@proton.me"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/muzahid-nayim"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://muzahid.pythonanywhere.com/static/uploads/resumes/Muzahidul_Islam_CV_Updated_1787083464.pdf"><img src="https://img.shields.io/badge/Download_CV-0F172A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" /></a>
+  <a href="https://muzahid.pythonanywhere.com/static/uploads/resumes/Muzahidul_Islam_CV19aug2026_1787139782.pdf?v=1787139782"><img src="https://img.shields.io/badge/Download_CV-0F172A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" /></a>
 </div>
 
 <br />
