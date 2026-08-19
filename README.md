@@ -208,7 +208,7 @@ Tell me about the idea — I’ll reply with a clear next step, usually within 2
 
 <div align="center">
 
-**Currently available for projects**
+<!-- **Currently available for projects** -->
 
 <a href="mailto:mnhp24@proton.me"><img src="https://img.shields.io/badge/mnhp24%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
 <a href="https://mnhp.netlify.app/"><img src="https://img.shields.io/badge/mnhp.netlify.app-0284c7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
